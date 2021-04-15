@@ -80,4 +80,4 @@ Title and description.
 - **Hey guys, I'm Jayvardhan. Find out more about me** [ here](https://linkedin.com/in/rathi406)
 - **Reach out to me at** [rathi406@gmail.com](rathi406@gmail.com)
 
-<h3 align="right">Built with :heart: by Jayvardhan Rathi</h3>
+<h3 align="right">Built with :heart: by Aditya Prakash</h3>
