@@ -3,16 +3,15 @@
 	<img src="https://user-images.githubusercontent.com/39644109/110592126-e6fc2700-819f-11eb-9ca5-8827418963c7.png" width=80%/>
 </a>
     
-<h2 align="center"> < Insert Project Title Here > </h2>
-<h4 align="center"> < Insert Project Description Here > <h4>
-
 </p>
 
----
+<h2 align="center"> Insert Project Title Here </h2>
+<h4 align="center"> Insert Project Description Here <h4>
 
-demo - [DEMO](link)
 
-Title and description.
+
+### Demo - [Link](link)
+
 
 ---
 
@@ -27,9 +26,9 @@ Title and description.
 
 ## :bulb: Built Using
 
-- [**FLUTTER**](https://flutter.dev/)
-- [**VELOCITY X**](https://velocityx.dev/)
-- [**ALAN AI**](https://alan.app/)
+- [**a**]()
+- [**b**]()
+- [**c**]()
 
 ---
 
