@@ -8,11 +8,7 @@
 <h2 align="center"> Insert Project Title Here </h2>
 <h4 align="center"> Insert Project Description Here <h4>
 
-
-
-### Demo - [Link](link)
-
----
+## Demo - [Link](link)
 
 ## :fire: Features
 
@@ -21,15 +17,11 @@
 - point 3
 - point 4
 
----
-
 ## :bulb: Built Using
 
 - [**a**]()
 - [**b**]()
 - [**c**]()
-
----
 
 ## :iphone: Screenshots
 
@@ -40,8 +32,6 @@
 | <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
 | <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
 | <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-
----
 
 ## Instructions to run
 
@@ -62,15 +52,12 @@
 < insert code >
 ```
 
----
-
 <!-- LICENSE -->  
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.  
 
----
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -83,7 +70,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request  
 
----
 
 <!-- CONTACT -->
 
