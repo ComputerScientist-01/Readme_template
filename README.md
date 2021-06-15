@@ -12,7 +12,6 @@
 
 ### Demo - [Link](link)
 
-
 ---
 
 ## :fire: Features
@@ -64,15 +63,27 @@
 ```
 
 ---
+
+<!-- LICENSE -->  
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.  
+
+---
+
+<!-- CONTRIBUTING -->
 ## Contributing
 
-If you'd like to contribute, please fork the repository and make changes as
-you'd like.Remeber to follow the guidelines as per `Contributing.md` Pull requests are warmly welcome. Thanks alot
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## :heart: Found this project interesting?
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request  
 
-If you found this project useful, then please consider giving it a :star: on Github 
-and sharing it with your friends via social media.
+---
 
 <!-- CONTACT -->
 
