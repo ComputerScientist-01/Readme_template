@@ -67,7 +67,7 @@
 ## Contributing
 
 If you'd like to contribute, please fork the repository and make changes as
-you'd like. Pull requests are warmly welcome. Thanks alot
+you'd like.Remeber to follow the guidelines as per `Contributing.md` Pull requests are warmly welcome. Thanks alot
 
 ## :heart: Found this project interesting?
 
